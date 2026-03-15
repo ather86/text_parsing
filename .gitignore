@@ -1,0 +1,6 @@
+# Ignore the directory containing temporary downloaded wheels
+/temp/
+*.pyc
+__pycache__/
+.venv/
+venv/
